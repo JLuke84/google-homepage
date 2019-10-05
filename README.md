@@ -1,0 +1,1 @@
+This project is to deconstruct the google homepage and then rebuild it from the ground up.  It will teach many things.
