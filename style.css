@@ -1,0 +1,59 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+      display: inline-block;
+      font-size: 11px;
+      margin: auto;
+  }
+
+  li.right {
+    float: right;
+    padding: 15px 15px 15px 15px;
+  }
+
+  li.left {
+    float: left;
+    padding: 10px 15px 15px 15px;
+  }
+
+  .middle {
+    margin: 180px 0px 180px 0px;
+    text-align: center;
+  }
+
+  #search {
+    width: 37%;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    border-radius: 25px;
+  }
+    
+  #signin {
+    height: 30px;
+    width: 80px;
+    font-weight: bold;
+    background-color: rgb(61, 104, 199);
+    color: white;
+  }
+
+  #footer {
+    position: absolute;
+    background-color: #f8f8f8;
+    width: 99%;
+    bottom: 0;
+  }
+
+  #googlesearch, #feelinglucky {
+    padding: 12px 17px;
+    margin: 5px 10px;
+    background-color: #f8f8f8;
+    border: 1px;
+    border-radius: 5px;
+   }
+
+  
+  
